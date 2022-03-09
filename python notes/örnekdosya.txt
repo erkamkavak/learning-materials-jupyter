@@ -1,0 +1,4 @@
+Satır1
+Satır2
+Satır3
+Satır4
